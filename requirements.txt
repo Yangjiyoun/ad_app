@@ -79,3 +79,4 @@ tzdata==2024.2
 urllib3==2.2.3
 watchdog==4.0.2
 wcwidth==0.2.13
+yfinance==0.2.44
